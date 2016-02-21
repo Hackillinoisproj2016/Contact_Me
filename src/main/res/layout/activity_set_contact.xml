@@ -77,5 +77,12 @@
             android:layout_height="wrap_content"
             android:id="@+id/organization_text"/>
     </LinearLayout>
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/set_button"
+        android:text="@string/set_contact_info_btn_lbl"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"/>
 </RelativeLayout>

@@ -14,5 +14,5 @@
     <string name="email_label">Email Address</string>
     <string name="home_addr_label">Home Address</string>
     <string name="organization_label">Organization</string>
-
+    <string name="set_contact_info_btn_lbl">Set</string>
 </resources>
